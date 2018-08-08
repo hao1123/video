@@ -1,0 +1,14 @@
+body { font-size: 12px; } 
+#n { margin:10px auto; width:920px; border:1px solid #CCC;
+ font-size:14px; line-height:30px; } 
+#n a { padding:0 4px; color:#333 } 
+.Bar ,.Bars { position: relative; width: 200px;
+    /* 宽度 */ border: 1px solid #B1D632; padding: 1px; } 
+.Bar div,.Bars div { display: block; position: relative;
+ background:#00F;/* 进度条背景颜色 */ color: #333333;
+ height: 20px; /* 高度 */ line-height: 20px;
+  /* 必须和高度一致，文本才能垂直居中 */ } 
+.Bars div{ background:#090} 
+.Bar div span,.Bars div span { position: absolute; width: 200px;
+ /* 宽度 */ text-align: center; font-weight: bold; } 
+.cent{ margin:0 auto; width:300px; overflow:hidden} 

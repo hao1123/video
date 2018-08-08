@@ -1,0 +1,55 @@
+ 	
+ 	.count_input{
+ width: 39px;
+ height: 15px;
+ line-height: 15px;
+ border: 1px solid #aaa;
+ color: #343434;
+ text-align: center;
+ padding: 4px 0;
+ background-color: #fff;
+}
+ 
+span.add, span.reduce{
+ height: 23px;
+ width: 27px;
+ border: 1px solid #e5e5e5;
+ background: #f0f0f0;
+ line-height: 23px;
+ color: #444;
+}
+.closing{
+ display: inline-block;
+ width: 120px;
+ height: 50px;
+ line-height: 50px;
+ background: #f40;
+ text-align: center;
+ font-family: 'Microsoft Yahei';
+ font-size: 20px;
+ -webkit-border-radius: 2px;
+ -moz-border-radius: 2px;
+ -ms-border-radius: 2px;
+ border-radius: 2px;
+ text-decoration: none;
+ cursor: pointer;
+}
+.fr{
+ float: right;
+}
+.selected_totle, .selectAll, .select_all, .delete_all{
+ margin-top: 15px;
+}
+.footer{
+ height: 50px;
+ background: #e5e5e5;
+ font-family: 'Microsoft Yahei';
+}
+#selectTotle, #priceTotle,.subtotle {
+ color: #f40;
+ font-weight: 700;
+ font-size: 18px;
+ font-family: tohoma,arial;
+ padding: 5px;
+ 
+}

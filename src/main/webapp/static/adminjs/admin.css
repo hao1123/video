@@ -1,0 +1,4 @@
+.center_header{ width:170px; height:90px; overflow:hidden}
+.center_header a{ display:block; width:61px; height:61px; border-radius:50%; overflow:hidden; float:left; margin-top:10px}
+.center_header a img{display:block; width:61px; height:61px}
+.center_header em{ float:left; height:21px; font-size:14px; display:block; margin-top:30px; padding-left:6px; width:99px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}

@@ -1,0 +1,88 @@
+body, html {
+	font-family: "微软雅黑" !important
+}
+
+.aside {
+	background: #fff !important
+}
+
+.lc_cx_list {
+	display: block !important
+}
+
+.what_neirong {
+	background: #2e2e2e !important
+}
+
+.wanyf_r {
+	width: 295px !important;
+	float: left;
+	background: #c8c8c8 !important;
+	overflow: hidden !important
+}
+
+.another_dlfs a {
+	display: inline-block !important;
+	width: 30px !important;
+	height: 30px !important;
+	margin-left: 6px !important
+}
+
+.sjkjd, .sjkjd2 {
+	width: 122px !important
+}
+
+.jw_pcg p input {
+	float: left !important
+}
+
+.zhezc_zy {
+	width: 100%;
+	height: 100%;
+	background: #424242;
+	position: fixed;
+	top: 0;
+	left: 0;
+	position: fixed;
+	z-index: 90000;
+	filter: alpha(opacity = 70) !important
+}
+
+.zhezc_nr {
+	width: 1118px;
+	height: auto;
+	overflow: hidden;
+	position: relative !important;
+	margin: 60px auto;
+	border: 2px solid #f08b08;
+	z-index: 99000 !important;
+	background: #fff
+}
+
+.all_n3_in {
+	display: block;
+	width: 72px;
+	height: 20px !important;
+	overflow: hidden !important;
+	margin-top: 24px;
+	margin-left: 84px;
+	position: relative
+}
+
+.minw {
+	position: absolute;
+	top: 0;
+	left: 0
+}
+
+.addw {
+	position: absolute;
+	top: 0;
+	right: 0
+}
+
+.text_boxw {
+	position: absolute;
+	top: 0;
+	left: 20px
+}
